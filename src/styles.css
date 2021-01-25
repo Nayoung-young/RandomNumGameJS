@@ -1,0 +1,9 @@
+body {
+  font-family: sans-serif;
+}
+
+.displayBlock {
+  border-style: solid;
+  padding: 20px;
+  text-align: center;
+}
